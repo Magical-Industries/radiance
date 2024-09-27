@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Radiance Lightning</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Radiance Lightning</description>
+    <image>
+      <title>Radiance Lightning</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.134.3</generator>
+    <language>en-us</language>
+    <copyright>Magical Industries</copyright>
+    <lastBuildDate>Thu, 26 Sep 2024 01:02:03 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/tags/about/</link>
+      <pubDate>Thu, 26 Sep 2024 01:02:03 +0900</pubDate>
+      <guid>http://localhost:1313/tags/about/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Merchandise</title>
+      <link>http://localhost:1313/tags/merchandise/</link>
+      <pubDate>Thu, 26 Sep 2024 01:02:03 +0900</pubDate>
+      <guid>http://localhost:1313/tags/merchandise/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Models</title>
+      <link>http://localhost:1313/tags/models/</link>
+      <pubDate>Thu, 26 Sep 2024 01:02:03 +0900</pubDate>
+      <guid>http://localhost:1313/tags/models/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Posts</title>
+      <link>http://localhost:1313/tags/posts/</link>
+      <pubDate>Thu, 26 Sep 2024 01:02:03 +0900</pubDate>
+      <guid>http://localhost:1313/tags/posts/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
