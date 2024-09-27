@@ -19,6 +19,7 @@ cover:
     hidden: false # only hide on current single page
 ---
 
+Consider supporting by acquiring our
 [Our Merchandise](https://www.redbubble.com/people/darthoguh/shop?artistUserName=darthoguh&collections=4094534&iaCode=all-departments&sortOrder=relevant#:~:text=Memes-,Radiance,-Category)
 
 Coming soon
